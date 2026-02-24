@@ -1,0 +1,114 @@
+Privacy Policy
+Last updated: [FEB 23, 2026]
+
+This Privacy Policy explains how WSB Radio (“the App”, “we”, “us”) collects, uses, and shares information when you use our mobile application.
+
+1) Summary
+
+We do not require you to create an account to use the App.
+
+We do not sell your personal information.
+
+Purchases are processed by Apple/Google. Subscription status is managed through RevenueCat.
+
+The App may fetch public content from third-party services (for example, public discussion threads) to power features.
+
+2) Information We Collect
+
+A. Information you provide
+You may contact us (for example by email). If you do, we will receive the content of your message and your email address.
+
+B. Purchase and subscription information
+If you buy a subscription, the purchase is handled by the App Store / Google Play. We do not receive your full payment details.
+We receive subscription status information (for example, whether you are subscribed) through RevenueCat.
+
+C. Device and app usage information
+Like most apps, we and our service providers may collect:
+
+Device type, OS version, app version
+
+Diagnostic information (crash logs, performance)
+
+General usage events (for example, whether a feature is opened)
+
+This information helps us keep the App stable and improve it.
+
+D. Content retrieved from third parties
+The App may retrieve public content from third-party platforms and APIs (for example, public discussion pages) to display or convert it to audio. That content is not created by us and may include language or opinions from third parties.
+
+3) How We Use Information
+
+We use the information described above to:
+
+Provide and operate the App and its features (including streaming and playback)
+
+Determine subscription access (Pro vs. free)
+
+Provide customer support
+
+Maintain security and prevent abuse
+
+Improve performance, fix bugs, and develop new features
+
+Comply with legal obligations
+
+4) How We Share Information
+
+We may share information:
+
+With service providers that help operate the App (for example, RevenueCat for subscription management, hosting providers, analytics/crash reporting providers if used)
+
+With Apple / Google as part of in-app purchase flows and store requirements
+
+For legal reasons if required by law, to protect safety, or to enforce our rights
+
+We do not sell your personal information.
+
+5) Third-Party Services
+
+The App may link to or interact with third-party services. Your use of those services is governed by their own terms and privacy policies.
+Examples may include:
+
+Apple App Store / Google Play
+
+RevenueCat
+
+Public content platforms whose pages are accessed by the App
+
+6) Data Retention
+
+We keep information only as long as needed to:
+
+Provide the App,
+
+Comply with legal obligations,
+
+Resolve disputes,
+
+Enforce agreements.
+
+If you contact support, we may retain correspondence for a reasonable period.
+
+7) Your Choices
+
+Subscriptions: You can manage or cancel subscriptions in your App Store / Google Play account settings.
+
+Device permissions: You can control permissions in your device settings.
+
+8) Children’s Privacy
+
+The App is not intended for children under 13 (or the minimum legal age in your country). We do not knowingly collect personal information from children.
+
+9) International Users
+
+If you use the App outside the United States, you understand that your information may be processed in countries where we or our service providers operate.
+
+10) Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will update the “Last updated” date above. Material changes may be communicated in the App or on our website.
+
+11) Contact Us
+
+If you have questions about this Privacy Policy, contact us at:
+Email: sophiaschreur@icloud.com
+Developer: Sophia Schreur
