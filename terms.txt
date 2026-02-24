@@ -1,0 +1,103 @@
+Terms of Use
+Last updated: [Feb 23, 2026]
+
+These Terms of Use (“Terms”) govern your use of WSB Radio (the “App”). By downloading, accessing, or using the App, you agree to these Terms.
+
+If you do not agree, do not use the App.
+
+1) The App
+
+The App provides audio playback and commentary features that may include reading or converting public third-party content into audio and presenting market snapshots and related information for entertainment and informational purposes.
+
+2) No Financial Advice
+
+The App is provided for entertainment and informational purposes only.
+Nothing in the App is investment, financial, legal, or tax advice. You are solely responsible for your decisions. Trading and investing involve risk, including loss of principal.
+
+3) Third-Party Content Disclaimer
+
+The App may display or read aloud content created by third parties.
+
+We do not endorse or guarantee accuracy of third-party content.
+
+Third-party content may be offensive, inaccurate, or inappropriate.
+
+We are not responsible for third-party content or external links.
+
+4) Acceptable Use
+
+You agree not to:
+
+Use the App for unlawful purposes
+
+Attempt to reverse engineer, scrape, disrupt, or overload the App or its services
+
+Circumvent paywalls or access paid features without authorization
+
+Interfere with security or attempt unauthorized access
+
+We may suspend or terminate access if you violate these Terms.
+
+5) Subscriptions and Billing
+
+The App may offer auto-renewing subscriptions (“Pro”).
+
+Billing & renewal
+
+Payment is charged to your Apple ID / Google account at confirmation of purchase.
+
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+
+Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+You can manage or cancel your subscription in your App Store / Google Play account settings.
+
+Trials & pricing
+
+If a free trial is offered, it will be shown at purchase.
+
+Pricing may vary by country and will be shown before you confirm purchase.
+
+Restore
+
+You can restore purchases using the “Restore Purchases” option in the App.
+
+6) License
+
+We grant you a personal, limited, non-exclusive, non-transferable, revocable license to use the App for your personal use, subject to these Terms.
+
+7) Intellectual Property
+
+The App, including its design, code, logos, and features, is owned by us or our licensors and protected by intellectual property laws.
+You may not copy, modify, distribute, or create derivative works from the App except as permitted by law.
+
+Third-party trademarks and content belong to their respective owners.
+
+8) Availability and Changes
+
+We may change, suspend, or discontinue the App or any features at any time, including paid features, without liability.
+
+9) Disclaimer of Warranties
+
+THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10) Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR GOODWILL ARISING FROM OR RELATED TO YOUR USE OF THE APP.
+
+OUR TOTAL LIABILITY FOR ANY CLAIM RELATING TO THE APP WILL NOT EXCEED THE AMOUNT YOU PAID (IF ANY) FOR THE APP IN THE 12 MONTHS BEFORE THE CLAIM, OR $10, WHICHEVER IS GREATER.
+
+11) Indemnification
+
+You agree to indemnify and hold us harmless from claims, damages, liabilities, and expenses arising out of your use of the App or violation of these Terms.
+
+12) Governing Law
+
+These Terms are governed by the laws of [YOUR STATE, USA], without regard to conflict of law principles.
+
+13) Contact
+
+Questions about these Terms:
+Email: sophiaschreur@icloud.com
+Developer: Sophia Schreur
